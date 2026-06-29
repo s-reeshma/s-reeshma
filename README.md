@@ -46,6 +46,11 @@
 </p>
 
 ---
+### 📊 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/sree-25?theme=radical&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ### 📊 GitHub Stats
 
