@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently building:** **Modalyn AI** (an adaptive VARK-model learning platform featuring LLM integration) and **ParkSense AI / Route Resilience** (AI-driven traffic optimization).
+* 🔭 **Currently building:** **Modalyn AI** (an adaptive VARK-model learning platform featuring LLM integration) and **resume ranker** (as part of india runs hackathon).
 * 🌱 **Exploring deep tech:** Passionate about advanced machine learning concepts, including Retrieval-Augmented Generation (RAG), multi-agent systems, and computer vision for satellite imagery.
 * 🏆 **Hackathons & Competitions:** Active participant in competitive programming (LeetCode, Codeforces) and hackathons (Flipkart Gridlock Hackathon 2.0, ET AI hackathon).
 * ☁️ **Certifications:** Completed the AWS Practitioner Challenge and the AWS AI & ML Scholars program.
@@ -51,6 +51,13 @@
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/sree-25?theme=radical&ext=heatmap" alt="LeetCode Stats" />
 </p>
+
+### 🚀 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| 🧠 **Modalyn AI** | A solo full-stack adaptive learning platform based on the VARK model, featuring custom LLM integration and dynamic weight-tracking systems. |
+| 🚦 **ParkSense AI / Route Resilience** | An AI-driven system for traffic and parking optimization, built by our three-student dev team for competitive hackathons. |
 
 ### 📊 GitHub Stats
 
