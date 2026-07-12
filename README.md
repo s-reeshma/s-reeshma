@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-* 🔭 **Currently building:** **Modalyn AI** (an adaptive VARK-model learning platform featuring LLM integration) and **resume ranker** (as part of india runs hackathon).
+* 🔭 **Currently building:** **Modalyn AI** (an adaptive VARK-model learning platform featuring LLM integration)
 * 🌱 **Exploring deep tech:** Passionate about advanced machine learning concepts, including Retrieval-Augmented Generation (RAG), multi-agent systems, and computer vision for satellite imagery.
 * 🏆 **Hackathons & Competitions:** Active participant in competitive programming (LeetCode, Codeforces) and hackathons (Flipkart Gridlock Hackathon 2.0, ET AI hackathon).
 * ☁️ **Certifications:** Completed the AWS Practitioner Challenge and the AWS AI & ML Scholars program.
