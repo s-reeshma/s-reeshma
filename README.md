@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sreeshma Chandrasekharan Nair 👋</h1>
+<h1 align="center">Hi there, I'm Sreeshma Chandrasekharan Nair </h1>
 
 <h3 align="center">3rd-Year CSE Undergrad at ABV-IIITM Gwalior | Full-Stack & AI Engineer</h3>
 
